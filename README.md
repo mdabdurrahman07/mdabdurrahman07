@@ -11,8 +11,6 @@
 
 - ✔ Recent Project [QuillQuest](https://quillquest-92dfc.web.app/)
 
-- 👨‍💻 All of my projects are available at [mdabdurrahman.web.app](mdabdurrahman.web.app)
-
 - 💬 Ask me about **React, JavaScript**
 
 - 📫 How to reach me **mdabdurrahmannurjamil@gmail.com**
