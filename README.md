@@ -40,3 +40,8 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdabdurrahman07&theme=merko" alt="Repos per Language">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdabdurrahman07&theme=merko" alt="Most Commit Language">
 </p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdabdurrahman07&theme=merko&utcOffset=8" alt="Repos per Language">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdabdurrahman07&theme=merko" alt="Most Commit Language">
+</p>
