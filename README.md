@@ -32,4 +32,6 @@
 
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mdabdurrahman07&theme=merko&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" /></a></p>
 
-<p align="center"><a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdabdurrahman07&theme=merko"></a></p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdabdurrahman07&theme=merko" alt="GitHub Profile Summary Cards">
+</p>
