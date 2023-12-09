@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="450" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdabdurrahman07&label=Profile%20views&color=0e75b6&style=flat" alt="mdabdurrahman07" /> </p>
 
-# 🤠 About Me
+## 🤠 About Me
 
 - 🔭 I’m currently working on [Momentum-Daily](https://momentum-daily.web.app/)
 
@@ -45,6 +45,57 @@
 
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mdabdurrahman07&theme=merko&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" /></a></p>
 
+## 📂 Projects 
+
+
+## Momentum-Daily
+- Description: This is a Newspaper Full stack MERN Project , with admin pannel , and payment gateway system with stripe and also secured the apis with JWT. In this website and user can purchase premium article subscription, also an user can add his own articles and admin can review them , also admin can delete them if false article came up then admin can review them and also decline it with declining massages , on the other hand if an user upload an article he/she have to wait for the admin approvel to display them in all articles , all of the article of an user will show in my article.
+- Technologies Used:
+  - FrontEnd: React, DaisyUI, Swiper, Tailwind
+  - Backend: Nodejs, Expressjs
+  - DataBase: Mongodb
+  - Authentication: Firebase, JWT
+  - Payment Gateway: Stripe 
+
+ ## Links
+
+[live link](https://momentum-daily.web.app/)
+
+[client repo](https://github.com/mdabdurrahman07/Momentum-Daily-Client)
+
+[server repo](https://github.com/mdabdurrahman07/Momentum-Daily-Server)
+
+## Quill-Quest
+- Description: This is a Book Service realted MERN project. In this project I has use basic mongodb CRUD method , user authentication with Google Firebase , And added some animation Lottie Animation. In this project an user can create an account and then he can see the book related services details , more over login user can also update or delete his or her book related services , and also update services details.
+- Technologies Used:
+  - FrontEnd: React, DaisyUI, Swiper, Tailwind
+  - Backend: Nodejs, Expressjs
+  - DataBase: Mongodb
+  - Authentication: Firebase
+  
+
+ ## Links
+
+[live link](https://quillquest-92dfc.web.app/)
+
+[client repo](https://github.com/mdabdurrahman07/Quill-Quest-Client)
+
+[server repo](https://github.com/mdabdurrahman07/Quill-Quest-Server)
+
+## Elegant-Auto
+- Description: This is a MERN project (Mongodb , Express , React , Nodejs), In this project I has use basic mongodb CRUD method , user authentication with Google Firebase. And added some animation with AOS. In this project an user can create an account and then he can see the cars and their details , more over login user can also update or delete his or her selected cars , and also update the car details .
+- Technologies Used:
+  - FrontEnd: React, DaisyUI, Tailwind
+  - Backend: Nodejs, Expressjs
+  - DataBase: Mongodb
+  - Authentication: Firebase
+  
+
+ ## Links
+
+[live link](https://elegant-auto.web.app/)
+
+[client repo](https://github.com/mdabdurrahman07/Elegant-Auto-Client)
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdabdurrahman07&theme=merko" alt="GitHub Profile Summary Cards">
 </p>
@@ -54,7 +105,5 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdabdurrahman07&theme=merko" alt="Most Commit Language">
 </p>
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdabdurrahman07&theme=merko&utcOffset=8" alt="Repos per Language">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdabdurrahman07&theme=merko" alt="Most Commit Language">
-</p>
+
+
