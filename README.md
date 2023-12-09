@@ -35,3 +35,8 @@
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdabdurrahman07&theme=merko" alt="GitHub Profile Summary Cards">
 </p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdabdurrahman07&theme=merko" alt="Repos per Language">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdabdurrahman07&theme=merko" alt="Most Commit Language">
+</p>
