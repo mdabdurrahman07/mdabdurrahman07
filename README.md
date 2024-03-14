@@ -43,7 +43,7 @@
 
 ## 📊 My Activity Streak 
 
-<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mdabdurrahman07&theme=merko&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" /></a></p>
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mdabdurrahman07&theme=merko" alt="GitHub Streak" /></a></p>
 
 ## 📂 Projects 
 
