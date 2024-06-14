@@ -96,6 +96,8 @@
 [live link](https://elegant-auto.web.app/)
 
 [client repo](https://github.com/mdabdurrahman07/Elegant-Auto-Client)
+
+##
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdabdurrahman07&theme=merko" alt="GitHub Profile Summary Cards">
 </p>
