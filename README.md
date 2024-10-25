@@ -6,7 +6,7 @@
 
 ## 🤠 About Me
 
-- 🔭 I’m currently working on [Brainnect](https://brainnect.com/)
+- 🔭 I’m currently working on [Canvilla](https://canvilla.ca/)
 
 - 🌱 I’m currently learning **Next.js & Advance Node.js**
 
