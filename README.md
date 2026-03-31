@@ -1,104 +1,103 @@
 ![An old rock in the desert](https://raw.githubusercontent.com/mdabdurrahman07/mdabdurrahman07/main/assets/banner/J-1.jpg "Shiprock, New Mexico by Beau Rogers")
 <h1 align="center">Hi 👋, I'm MD Abdur Rahman Nur Jamil</h1>
-<h3 align="center">MERN Stack web developer from Bangladesh</h3>
+<h3 align="center">Web Developer from Bangladesh</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdabdurrahman07&label=Profile%20views&color=0e75b6&style=flat" alt="mdabdurrahman07" /> </p>
 
-## 🤠 About Me
+# 💫 About Me:
+- 🔭 I’m currently working on [GSAP](https://github.com/mdabdurrahman07/gta_vi_landing)
 
-- 🔭 I’m currently working on [Canvilla](https://canvilla.ca/)
+- 🌱 I’m currently learning **Typescript & GSAP**
 
-- 🌱 I’m currently learning **Next.js & Advance Node.js**
+- ✔ Recent Project [Canvilla](https://canvilla.ca/)
 
-- ✔ Recent Project [Unity Spark](https://unity-spark-22122.web.app/)
-
-- 💬 Ask me about **React, JavaScript**
+- 💬 Ask me about **React, JavaScript, Redux**
 
 - 📫 How to reach me **mdabdurrahmannurjamil@gmail.com**
 
 - ⚡ Fun fact **I am also a street photographer**
 
-# 🔗 Connect with me:
-<p align="left">
-<a href="https://fb.com/mdabdurrahmannurjamil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdabdurrahmannurjamil" height="30" width="40" /></a>
-<a href="https://instagram.com/jamil.official_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jamil.official_07" height="30" width="40" /></a>
-</p>
-
-# 💻 Languages and Tools:
-<p align="center">  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mdabdurrahman07/mdabdurrahman07/main/assets/Icons/bootstrap.png" alt="bootstrap" width="55" height="60"/> </a>
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mdabdurrahman07/mdabdurrahman07/main/assets/Icons/CSS.png" alt="css3" width="55" height="60"/> </a> 
- <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mdabdurrahman07/mdabdurrahman07/main/assets/Icons/express.png" alt="express" width="55" height="60"/> </a> 
- <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mdabdurrahman07/mdabdurrahman07/main/assets/Icons/figma.png" alt="figma" width="55" height="60"/> </a> 
- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mdabdurrahman07/mdabdurrahman07/main/assets/Icons/firebase.png" alt="firebase" width="55" height="60"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mdabdurrahman07/mdabdurrahman07/main/assets/Icons/git.png" alt="git" width="55" height="60"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mdabdurrahman07/mdabdurrahman07/main/assets/Icons/HTML.png" alt="html5" width="55" height="60"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mdabdurrahman07/mdabdurrahman07/main/assets/Icons/JS.png" alt="javascript"width="55" height="60"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="55" height="60"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mdabdurrahman07/mdabdurrahman07/main/assets/Icons/Node.png" alt="nodejs" width="55" height="60"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mdabdurrahman07/mdabdurrahman07/main/assets/Icons/ps.png" alt="photoshop" width="55" height="60"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mdabdurrahman07/mdabdurrahman07/main/assets/Icons/React.png" alt="react" width="55" height="60"/>
-</a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mdabdurrahman07/mdabdurrahman07/main/assets/Icons/tailwind.png" alt="tailwind" width="55" height="60"/> </a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mdabdurrahman07/mdabdurrahman07/main/assets/Icons/xd.png" alt="xd" width="55" height="60"/> </a> <a href="https://jwt.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mdabdurrahman07/mdabdurrahman07/main/assets/Icons/JWT.png" alt="jwt" width="55" height="60"/> </a> </p>
 
 
-## 📂 Projects 
+# 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mdabdurrahman07) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/19f2DgrcFd/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mdabdurrahman.me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-abdur-rahman-nur-jamil-8b29412a5) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/1DvGcyEcZ) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/mabdurrahman07) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/mdabdurrahman07) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mabdurrahman07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdabdurrahmannurjamil@gmail.com) 
 
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
+# 📂 Projects
 
-## Momentum-Daily
-- Description: This is a Newspaper Full stack MERN Project , with admin pannel , and payment gateway system with stripe and also secured the apis with JWT. In this website and user can purchase premium article subscription, also an user can add his own articles and admin can review them , also admin can delete them if false article came up then admin can review them and also decline it with declining massages , on the other hand if an user upload an article he/she have to wait for the admin approvel to display them in all articles , all of the article of an user will show in my article.
-- Technologies Used:
-  - FrontEnd: React, DaisyUI, Swiper, Tailwind
-  - Backend: Nodejs, Expressjs
-  - DataBase: Mongodb
-  - Authentication: Firebase, JWT
-  - Payment Gateway: Stripe 
+### 🗞️ Momentum Daily
+> A full-stack MERN newspaper platform with premium subscriptions, article management, and admin controls.
 
- ## Links
+**Key Features:**
+- Users can purchase premium article subscriptions via **Stripe**
+- Authors can submit articles — held for admin review before going live
+- Admins can approve, decline (with a reason), or remove articles
+- APIs secured with **JWT** authentication
 
-[live link](https://momentum-daily.web.app/)
+**Tech Stack:**
 
-[client repo](https://github.com/mdabdurrahman07/Momentum-Daily-Client)
+| Layer | Technologies |
+|---|---|
+| Frontend | React, Tailwind CSS, DaisyUI, Swiper |
+| Backend | Node.js, Express.js |
+| Database | MongoDB |
+| Auth | Firebase, JWT |
+| Payments | Stripe |
 
-[server repo](https://github.com/mdabdurrahman07/Momentum-Daily-Server)
+🔗 [Live Demo](https://momentum-daily.web.app/) · [Client Repo](https://github.com/mdabdurrahman07/Momentum-Daily-Client) · [Server Repo](https://github.com/mdabdurrahman07/Momentum-Daily-Server)
 
-## Quill-Quest
-- Description: This is a Book Service realted MERN project. In this project I has use basic mongodb CRUD method , user authentication with Google Firebase , And added some animation Lottie Animation. In this project an user can create an account and then he can see the book related services details , more over login user can also update or delete his or her book related services , and also update services details.
-- Technologies Used:
-  - FrontEnd: React, DaisyUI, Swiper, Tailwind
-  - Backend: Nodejs, Expressjs
-  - DataBase: Mongodb
-  - Authentication: Firebase
-  
+---
 
- ## Links
+### 📚 Quill Quest
+> A MERN-based book services platform where users can discover, manage, and update book-related service listings.
 
-[live link](https://quillquest-92dfc.web.app/)
+**Key Features:**
+- Browse book services and view detailed listings
+- Authenticated users can create, update, and delete their own services
+- Smooth UI with **Lottie animations**
+- Google sign-in via Firebase
 
-[client repo](https://github.com/mdabdurrahman07/Quill-Quest-Client)
+**Tech Stack:**
 
-[server repo](https://github.com/mdabdurrahman07/Quill-Quest-Server)
+| Layer | Technologies |
+|---|---|
+| Frontend | React, Tailwind CSS, DaisyUI, Swiper |
+| Backend | Node.js, Express.js |
+| Database | MongoDB |
+| Auth | Firebase |
 
-## Elegant-Auto
-- Description: This is a MERN project (Mongodb , Express , React , Nodejs), In this project I has use basic mongodb CRUD method , user authentication with Google Firebase. And added some animation with AOS. In this project an user can create an account and then he can see the cars and their details , more over login user can also update or delete his or her selected cars , and also update the car details .
-- Technologies Used:
-  - FrontEnd: React, DaisyUI, Tailwind
-  - Backend: Nodejs, Expressjs
-  - DataBase: Mongodb
-  - Authentication: Firebase
-  
+🔗 [Live Demo](https://quillquest-92dfc.web.app/) · [Client Repo](https://github.com/mdabdurrahman07/Quill-Quest-Client) · [Server Repo](https://github.com/mdabdurrahman07/Quill-Quest-Server)
 
- ## Links
+---
 
-[live link](https://elegant-auto.web.app/)
+### 🚗 Elegant Auto
+> A MERN car showcase platform where users can explore, add, and manage car listings with a sleek animated UI.
 
-[client repo](https://github.com/mdabdurrahman07/Elegant-Auto-Client)
+**Key Features:**
+- Browse cars and view detailed information
+- Authenticated users can add, update, and delete their own car listings
+- Scroll animations powered by **AOS**
+- Google sign-in via Firebase
 
-##
+**Tech Stack:**
 
+| Layer | Technologies |
+|---|---|
+| Frontend | React, Tailwind CSS, DaisyUI |
+| Backend | Node.js, Express.js |
+| Database | MongoDB |
+| Auth | Firebase |
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdabdurrahman07&theme=merko" alt="Repos per Language">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdabdurrahman07&theme=merko" alt="Most Commit Language">
-</p>
+🔗 [Live Demo](https://elegant-auto.web.app/) · [Client Repo](https://github.com/mdabdurrahman07/Elegant-Auto-Client)
 
+---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mdabdurrahman07&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mdabdurrahman07&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdabdurrahman07&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mdabdurrahman07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mdabdurrahman07&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
