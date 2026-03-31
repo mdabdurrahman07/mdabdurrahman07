@@ -91,13 +91,5 @@
 🔗 [Live Demo](https://elegant-auto.web.app/) · [Client Repo](https://github.com/mdabdurrahman07/Elegant-Auto-Client)
 
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mdabdurrahman07&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mdabdurrahman07&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdabdurrahman07&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mdabdurrahman07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mdabdurrahman07&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
+# 📊 GitHub Streak Stats:
+[![GitHub Streak](https://streak-stats.demolab.com?user=mdabdurrahman07&theme=blue-green&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
