@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdabdurrahman07&label=Profile%20views&color=0e75b6&style=flat" alt="mdabdurrahman07" /> </p>
 
 # 💫 About Me:
-- 🔭 I’m currently working on [OTG Global Mobility](https://www.otggm.com/)
+- 🔭 I’m currently working on [The Daily Narrative](/)
 
-- 🌱 I’m currently learning **Typescript & GSAP**
+- 🌱 I’m currently learning **Nextjs, Prisma**
 
-- ✔ Recent Project [Canvilla](https://canvilla.ca/)
+- ✔ Recent Project [OTG Global Mobility](https://www.otggm.com/)
 
 - 💬 Ask me about **React, JavaScript, Redux**
 
@@ -44,70 +44,69 @@
 <a href="https://app.daily.dev/mabdurrahman"><img src="https://api.daily.dev/devcards/v2/j478sATQhv7i2qjbFcMqH.png?r=zbg&type=wide" width="652" alt="MD Abdur Rahman Nur Jamil's Dev Card"/></a>
 # 📂 Projects
 
-### 🗞️ Momentum Daily
-> A full-stack MERN newspaper platform with premium subscriptions, article management, and admin controls.
+### Fixano
+> Fixano is a backend API for a home services marketplace. Customers can browse available services (plumbing, electrical, cleaning, painting, etc.), book qualified technicians, and leave reviews. Technicians can create service profiles, manage their availability, and handle job bookings. Admins oversee the platform, manage users, and moderate service categories.
 
 **Key Features:**
-- Users can purchase premium article subscriptions via **Stripe**
-- Authors can submit articles — held for admin review before going live
-- Admins can approve, decline (with a reason), or remove articles
+- Users can purchase service via **Stripe**
+- Technician can provide services — held for admin review before going live
+- Admins can approve, decline (with a reason), or remove customer and technicians
 - APIs secured with **JWT** authentication
 
 **Tech Stack:**
 
 | Layer | Technologies |
 |---|---|
-| Frontend | React, Tailwind CSS, DaisyUI, Swiper |
 | Backend | Node.js, Express.js |
-| Database | MongoDB |
-| Auth | Firebase, JWT |
+| Database | PostgresSQL |
+| ORM | Prisma |
+| Auth | JWT, Bcryptjs |
 | Payments | Stripe |
 
-🔗 [Live Demo](https://momentum-daily.web.app/) · [Client Repo](https://github.com/mdabdurrahman07/Momentum-Daily-Client) · [Server Repo](https://github.com/mdabdurrahman07/Momentum-Daily-Server)
-
+🔗 [Git Repo](https://github.com/mdabdurrahman07/fixano_backend) · [Server Url](https://fixano-backend.vercel.app/)
 ---
-
-### 📚 Quill Quest
-> A MERN-based book services platform where users can discover, manage, and update book-related service listings.
+### The Daily Narrative
+> A TypeScript Express backend for a blogging platform with PostgreSQL, Prisma ORM, JWT authentication, and Stripe subscription checkout.
 
 **Key Features:**
-- Browse book services and view detailed listings
-- Authenticated users can create, update, and delete their own services
-- Smooth UI with **Lottie animations**
-- Google sign-in via Firebase
+- User registration and login with JWT access/refresh tokens
+- User profile fetch and update
+- Post CRUD operations
+- Comment creation, update, delete, and moderation
+- Stripe subscription checkout session creation
+- Role-based route protection
 
 **Tech Stack:**
 
 | Layer | Technologies |
 |---|---|
-| Frontend | React, Tailwind CSS, DaisyUI, Swiper |
 | Backend | Node.js, Express.js |
-| Database | MongoDB |
-| Auth | Firebase |
+| Database | PostgresSQL |
+| ORM | Prisma |
+| Auth | JWT, Bcryptjs |
+| Payments | Stripe |
 
-🔗 [Live Demo](https://quillquest-92dfc.web.app/) · [Client Repo](https://github.com/mdabdurrahman07/Quill-Quest-Client) · [Server Repo](https://github.com/mdabdurrahman07/Quill-Quest-Server)
+🔗 [Git Repo](https://github.com/mdabdurrahman07/the_daily_narrative_backend)
+
 
 ---
-
-### 🚗 Elegant Auto
-> A MERN car showcase platform where users can explore, add, and manage car listings with a sleek animated UI.
+### DevPulse
+> A collaborative platform for software teams to report bugs, suggest features, and coordinate resolutions
 
 **Key Features:**
-- Browse cars and view detailed information
-- Authenticated users can add, update, and delete their own car listings
-- Scroll animations powered by **AOS**
-- Google sign-in via Firebase
+- Contributors can create update delete issues
+- Server side input validation
+- Maintainers have all administrative rights to update any issue.
 
 **Tech Stack:**
 
 | Layer | Technologies |
 |---|---|
-| Frontend | React, Tailwind CSS, DaisyUI |
 | Backend | Node.js, Express.js |
-| Database | MongoDB |
-| Auth | Firebase |
+| Database | PostgresSQL |
+| Auth | JWT, Bcryptjs |
 
-🔗 [Live Demo](https://elegant-auto.web.app/) · [Client Repo](https://github.com/mdabdurrahman07/Elegant-Auto-Client)
+🔗 [Git Repo](https://github.com/mdabdurrahman07/devPulse) · [Server Url](https://devpulse-rosy-iota.vercel.app/)
 
 ---
 # 📊 GitHub Streak Stats:
