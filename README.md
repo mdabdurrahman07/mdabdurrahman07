@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdabdurrahman07&label=Profile%20views&color=0e75b6&style=flat" alt="mdabdurrahman07" /> </p>
 
 # 💫 About Me:
-- 🔭 I’m currently working on [The Daily Narrative](/)
+- 🔭 I’m currently working on [The Daily Narrative](https://github.com/mdabdurrahman07/the_daily_narrative_frontend)
 
 - 🌱 I’m currently learning **Nextjs, Prisma**
 
