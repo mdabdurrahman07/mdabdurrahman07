@@ -63,7 +63,8 @@
 | Auth | JWT, Bcryptjs |
 | Payments | Stripe |
 
-🔗 [Git Repo](https://github.com/mdabdurrahman07/fixano_backend) · [Server Url](https://fixano-backend.vercel.app/)
+🔗 [Git Repo](https://github.com/mdabdurrahman07/fixano_backend) . [Server Url](https://fixano-backend.vercel.app/)
+
 ---
 ### The Daily Narrative
 > A TypeScript Express backend for a blogging platform with PostgreSQL, Prisma ORM, JWT authentication, and Stripe subscription checkout.
@@ -86,8 +87,7 @@
 | Auth | JWT, Bcryptjs |
 | Payments | Stripe |
 
-🔗 [Git Repo](https://github.com/mdabdurrahman07/the_daily_narrative_backend)
-
+🔗 [Git Repo](https://github.com/mdabdurrahman07/the_daily_narrative_backend) . [Server Url](https://the-daily-narrative-backend.vercel.app/)
 
 ---
 ### DevPulse
