@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdabdurrahman07&label=Profile%20views&color=0e75b6&style=flat" alt="mdabdurrahman07" /> </p>
 
 # 💫 About Me:
-- 🔭 I’m currently working on [The Daily Narrative](https://github.com/mdabdurrahman07/the_daily_narrative_frontend)
+- 🔭 I’m currently working on [Sprintly](https://sprintly-frontend.vercel.app/)
 
-- 🌱 I’m currently learning **Nextjs, Prisma**
+- 🌱 I’m currently learning **Nextjs, Docker**
 
-- ✔ Recent Project [OTG Global Mobility](https://www.otggm.com/)
+- ✔ Recent Project [Fixano](https://fixano-frontend.vercel.app/)
 
 - 💬 Ask me about **React, JavaScript, Redux**
 
@@ -43,6 +43,32 @@
 # 🪪 Dev Card
 <a href="https://app.daily.dev/mabdurrahman"><img src="https://api.daily.dev/devcards/v2/j478sATQhv7i2qjbFcMqH.png?r=zbg&type=wide" width="652" alt="MD Abdur Rahman Nur Jamil's Dev Card"/></a>
 # 📂 Projects
+
+### Sprintly
+> Sprintly gives teams one place to organize projects, assign work, and follow task progress and collaboration. It replaces ad-hoc coordination with shared project views, task boards, comments, and role-specific dashboards.The frontend follows the SSDI (Static Shell, Dynamic Island) concept: the page shell (layout, navigation, headers, and sidebars) is static or server-rendered for fast initial loading, while data-driven and interactive areas (kanban boards, task lists, comments, dashboards, and analytics) work as independent dynamic islands
+
+**Key Features:**
+- SSDI Frontend Architecture
+- Kanban
+- SASS APP
+- Bkash Payment Integration
+- Multiple Tenants
+
+**Tech Stack:**
+
+| Layer | Technologies |
+|---|---|
+| Frontend | Next.js |
+| Backend | Node.js, Express.js |
+| Database | PostgresSQL |
+| ORM | Prisma |
+| Auth | JWT, Bcryptjs |
+| Payments | Bkash |
+| Validation & Data Fetchinh | Zod, Tanstack Query | 
+
+🔗 [Git Repo](https://github.com/mdabdurrahman07/sprintly_frontend) . [Live Url](https://sprintly-frontend.vercel.app/)
+
+---
 
 ### Fixano
 > Fixano is a backend API for a home services marketplace. Customers can browse available services (plumbing, electrical, cleaning, painting, etc.), book qualified technicians, and leave reviews. Technicians can create service profiles, manage their availability, and handle job bookings. Admins oversee the platform, manage users, and moderate service categories.
@@ -88,25 +114,6 @@
 | Payments | Stripe |
 
 🔗 [Git Repo](https://github.com/mdabdurrahman07/the_daily_narrative_backend) . [Server Url](https://the-daily-narrative-backend.vercel.app/)
-
----
-### DevPulse
-> A collaborative platform for software teams to report bugs, suggest features, and coordinate resolutions
-
-**Key Features:**
-- Contributors can create update delete issues
-- Server side input validation
-- Maintainers have all administrative rights to update any issue.
-
-**Tech Stack:**
-
-| Layer | Technologies |
-|---|---|
-| Backend | Node.js, Express.js |
-| Database | PostgresSQL |
-| Auth | JWT, Bcryptjs |
-
-🔗 [Git Repo](https://github.com/mdabdurrahman07/devPulse) · [Server Url](https://devpulse-rosy-iota.vercel.app/)
 
 ---
 # 📊 GitHub Streak Stats:
